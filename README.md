@@ -11,6 +11,7 @@ This project is to pick 5 zip codes that are the "best" for real estate investme
 * One-step and dynamic forecasts
 
 # Requirment
-To be able to execute the codes in the jupyter notebook, make sure to install libraries listed in Importing libraries used in the project section in   
+To be able to execute the codes in the jupyter notebook, make sure to install libraries listed in Importing libraries used in the project section in `TitmeSeries_HousePrice_finalDraft.ipynb`  
 
+# Table of Contents
 
