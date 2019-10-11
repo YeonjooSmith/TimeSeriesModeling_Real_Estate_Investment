@@ -10,8 +10,8 @@ This project is to pick 5 zip codes that are the "best" for real estate investme
 * ARIMA modeling
 * One-step and dynamic forecasts
 
-# Requirment
-To be able to execute the codes in the jupyter notebook, make sure to install libraries listed in Importing libraries used in the project section in `TitmeSeries_HousePrice_finalDraft.ipynb`  
 
-# Table of Contents
+# How to navigate this repository
+* First, read the non-technical summary of the project(the presentation slides in PDF format) to understand the whole picture
+* Second, follow the codes in `TitmeSeries_HousePrice_finalDraft.ipynb` after installing libraries listed at the begining part of the notebook. 
 
