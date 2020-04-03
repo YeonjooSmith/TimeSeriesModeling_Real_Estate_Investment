@@ -23,7 +23,7 @@ Considering unpredictability and depreciation, the short term investments to foc
 The data (`zillow_data.csv`) was from [Zillow](https://www.zillow.com/research/data/). The given dataset contains the monthly average house price in each zip codes over 51 states from April 1994 to April 2018. 
 
 ### Modeling Process
-<img src = 'images/ModelingProcess.PNG'>
+<img src = 'images/ModelingProcess.PNG' width ="700">
 
 * **Filter 1**: The zip codes whose average house price in 2018 is the 99th percentile or above as it reflects the highest demand and reduce the risk of the bad locations. 
 
@@ -39,10 +39,10 @@ The data (`zillow_data.csv`) was from [Zillow](https://www.zillow.com/research/d
           * Dicky Fuller test
         We tested all 23 time series as following:  
 
-<img src = 'images/TestingTrends.PNG'>
-<img src = 'images/Trend1.PNG'>
-<img src = 'images/Trend2.PNG'>
-<img src = 'images/Trend3.PNG'>
+<img src = 'images/TestingTrends.PNG' width ="700">
+<img src = 'images/Trend1.PNG' width ="700">
+<img src = 'images/Trend2.PNG' width ="700">
+<img src = 'images/Trend3.PNG' width ="700">
 
    3. ARIMA(AutoregRessive Integrated Moving Average) Modeling 
         * ACF (Autocorrelation Function) and PACF (Partial Autocorrelation Function) Graphs are plotted for the time series for determining parameters for ARIMA Models. 
